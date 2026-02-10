@@ -1,6 +1,6 @@
 # Social Card Preview
 
-Adds a "Social Card Preview" option to the WordPress editor Preview dropdown, showing how a post will look when shared on X.
+Adds a "Social Card Preview" option to the WordPress editor Preview dropdown, showing how a post will look when shared on X. As example plugin for a WordPress develop blog post. 
 
 ## Features
 
