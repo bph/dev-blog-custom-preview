@@ -68,8 +68,3 @@
 	border-radius: 16px;
 }
 
-/* Share button */
-.social-card-preview__actions {
-	display: flex;
-	justify-content: flex-end;
-}
